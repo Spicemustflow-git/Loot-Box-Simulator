@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loot Box Simulator", "Loot Box Simulator\Loot Box Simulator.csproj", "{739DE1F0-71BC-4D52-80EC-2CE9B4473D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739DE1F0-71BC-4D52-80EC-2CE9B4473D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739DE1F0-71BC-4D52-80EC-2CE9B4473D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739DE1F0-71BC-4D52-80EC-2CE9B4473D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739DE1F0-71BC-4D52-80EC-2CE9B4473D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F9C275-25D2-4978-A972-463C06991762}
+	EndGlobalSection
+EndGlobal
